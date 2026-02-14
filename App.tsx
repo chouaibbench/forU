@@ -48,7 +48,7 @@ const App: React.FC = () => {
             </div>
             
             <h1 className="text-4xl md:text-6xl font-cursive text-pink-600 drop-shadow-sm px-2">
-              Sara, will you be my Valentine?
+              Sana, will you be my Valentine?
             </h1>
 
             <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12 mt-12 relative h-20 md:h-auto">
